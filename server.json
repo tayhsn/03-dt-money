@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-10-20T21:29:44.758Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 30,
+      "createdAt": "2022-10-03T21:29:44.758Z"
+    },
+    {
+      "id": 3,
+      "description": "Setup topado",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 3000,
+      "createdAt": "2022-10-21T00:11:07.119Z"
+    },
+    {
+      "id": 4,
+      "description": "Drogas",
+      "type": "income",
+      "category": "Venda",
+      "price": 500,
+      "createdAt": "2022-10-21T00:12:07.119Z"
+    },
+    {
+      "description": "Dividendos FII",
+      "category": "Investimento",
+      "price": 12,
+      "type": "income",
+      "createdAt": "2022-10-21T13:06:46.708Z",
+      "id": 5
+    },
+    {
+      "description": "Mercado",
+      "category": "Alimentação",
+      "price": 200,
+      "type": "outcome",
+      "createdAt": "2022-10-21T13:37:11.584Z",
+      "id": 6
+    },
+    {
+      "description": "Agua galao",
+      "category": "Casa",
+      "price": 15,
+      "type": "outcome",
+      "createdAt": "2022-10-21T13:51:25.766Z",
+      "id": 7
+    }
+  ]
+}
