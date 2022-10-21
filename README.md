@@ -10,7 +10,7 @@ Esta é uma aplicação de controle financeiro desenvolvida no módulo "Consumo 
 
 ## ✍🏻 Funcionalidades
 
-- Visualizar todas as transações registradas.
+- Visualizar as transações registradas.
 - Registrar uma nova transação.
 - Buscar transações
 
@@ -18,7 +18,7 @@ Esta é uma aplicação de controle financeiro desenvolvida no módulo "Consumo 
 
 - Requisições com Fetch API
 - Estilizando componentes acessíveis
--
+- Analisando performace da aplicação
 
 ## 🛠 Tecnologias utilizadas
 

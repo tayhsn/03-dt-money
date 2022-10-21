@@ -55,6 +55,22 @@
       "type": "outcome",
       "createdAt": "2022-10-21T13:51:25.766Z",
       "id": 7
+    },
+    {
+      "description": "Tabaco",
+      "category": "Vicios",
+      "price": 20,
+      "type": "outcome",
+      "createdAt": "2022-10-21T14:49:05.391Z",
+      "id": 8
+    },
+    {
+      "description": "Nova",
+      "category": "Compra",
+      "price": 40,
+      "type": "outcome",
+      "createdAt": "2022-10-21T16:41:36.302Z",
+      "id": 9
     }
   ]
 }
