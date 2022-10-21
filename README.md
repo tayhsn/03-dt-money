@@ -17,8 +17,9 @@ Esta é uma aplicação de controle financeiro desenvolvida no módulo "Consumo 
 ## 🧠 Aprendizados
 
 - Requisições com Fetch API
-- Estilizando componentes acessíveis
-- Analisando performace da aplicação
+- Estilizar componentes acessíveis
+- Analisar a performace da aplicação utilizando o React Dev tools
+- Conhecer os hooks (`useCallback` e `useMemo`) e compreender sua utilização
 
 ## 🛠 Tecnologias utilizadas
 
@@ -28,3 +29,4 @@ Esta é uma aplicação de controle financeiro desenvolvida no módulo "Consumo 
 - Phosphor-react
 - React-hook-form
 - Styled-components
+- Use-context-selector
