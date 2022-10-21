@@ -5,31 +5,31 @@
       "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
-      "price": 14000,
+      "price": 7000,
       "createdAt": "2022-10-20T21:29:44.758Z"
     },
     {
       "id": 2,
-      "description": "Hamburguer",
+      "description": "Jantar de domingo",
       "type": "outcome",
       "category": "Compra",
-      "price": 30,
+      "price": 70,
       "createdAt": "2022-10-03T21:29:44.758Z"
     },
     {
       "id": 3,
-      "description": "Setup topado",
+      "description": "Monitor",
       "type": "outcome",
       "category": "Compra",
-      "price": 3000,
+      "price": 7000,
       "createdAt": "2022-10-21T00:11:07.119Z"
     },
     {
       "id": 4,
-      "description": "Drogas",
+      "description": "App",
       "type": "income",
       "category": "Venda",
-      "price": 500,
+      "price": 3000,
       "createdAt": "2022-10-21T00:12:07.119Z"
     },
     {
@@ -43,14 +43,14 @@
     {
       "description": "Mercado",
       "category": "Alimentação",
-      "price": 200,
+      "price": 300,
       "type": "outcome",
       "createdAt": "2022-10-21T13:37:11.584Z",
       "id": 6
     },
     {
-      "description": "Agua galao",
-      "category": "Casa",
+      "description": "Agua",
+      "category": "Alimentação",
       "price": 15,
       "type": "outcome",
       "createdAt": "2022-10-21T13:51:25.766Z",
@@ -65,7 +65,7 @@
       "id": 8
     },
     {
-      "description": "Nova",
+      "description": "Mouse",
       "category": "Compra",
       "price": 40,
       "type": "outcome",
